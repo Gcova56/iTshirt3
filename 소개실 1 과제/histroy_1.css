@@ -1,0 +1,42 @@
+.my_1 {
+    background-color: rgb(235, 177, 199);
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-family:Georgia, serif;
+    font-weight: bold;
+}
+
+.my_2 {
+    background-color: rgb(230, 137, 194);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.my_3 {
+    background-color: rgb(168, 126, 149);
+    height: 81vh;
+}
+
+.my_30 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.my_3-1 {
+    display: flex;
+}
+
+.my_311 {
+
+    margin: 1% 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

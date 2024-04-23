@@ -1,0 +1,95 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    height: 100vh;
+}
+
+.inner{
+    background-color: rgb(136, 196, 219);
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner_main  {
+    font-size: xx-large;
+    font-weight: 300px;
+    font-weight: bolder;
+}
+
+.k {
+
+    display: flex;
+}
+
+.side{
+    background-color: rgb(145, 205, 212);
+    height: 756px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.main{
+    background-image: url("./홈페이지 사진/home.gif");
+    background-size: 50% 50%;
+    float: right;
+    width: 80%;
+    height: 80vh;
+}
+
+.main li{
+    margin: 90px;
+    list-style: none;
+}
+
+ul {
+
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul > li {
+    
+    color: rgb(58, 0, 41);
+    font-weight: bolder;
+    font-size: 2vh;
+    display: inline-block;
+    margin: 0px 9%;
+}
+button {
+    margin: 70px;
+    width: 60%;
+    height: 10%;
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+
+button:hover{
+    background-color: rgb(173, 173, 173);
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: white;
+}
+
+img{
+    width: 900px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 280px;
+
+}

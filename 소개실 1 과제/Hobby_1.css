@@ -1,0 +1,37 @@
+.innner{
+    background-color: rgb(238, 238, 238);
+    height: 60;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pop{
+    background-color: rgb(139, 214, 233);
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.last{
+    background-color: rgb(122, 165, 201);
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.coment {
+    font-size: 20px ;
+    line-height: 45px;
+    font-family: monospace;
+    font-weight: bolder;
+
+}
+
+.vict {
+    margin: 20px;
+}
